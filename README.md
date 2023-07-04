@@ -1,6 +1,6 @@
 # 3-column Preview Card
 
-## Codepen Link:
+## Codepen Link;
 https://codepen.io/omercangulec/pen/JjeJqqO
 
 <img src="screenshot.png"
